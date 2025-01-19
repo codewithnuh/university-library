@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/PMLS/Desktop/Projects/university-librairy/app/%28root%29/layout.tsx"],"sourcesContent":["import { ReactNode } from \"react\";\r\n\r\nconst Layout = ({ children }: { children: ReactNode }) => {\r\n  return (\r\n    <main className=\"root-container \">\r\n      <div className=\"mx-auto max-w-6xl \">\r\n        Header\r\n        <div className=\"mt-20 pb-20\"> {children}</div>\r\n      </div>\r\n    </main>\r\n  );\r\n};\r\n\r\nexport default Layout;\r\n"],"names":[],"mappings":";;;;;AAEA,MAAM,SAAS,CAAC,EAAE,QAAQ,EAA2B;IACnD,qBACE,8OAAC;QAAK,WAAU;kBACd,cAAA,8OAAC;YAAI,WAAU;;gBAAqB;8BAElC,8OAAC;oBAAI,WAAU;;wBAAc;wBAAE;;;;;;;;;;;;;;;;;;AAIvC;uCAEe"}},
-    {"offset": {"line": 43, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}
